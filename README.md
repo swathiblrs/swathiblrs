@@ -3,6 +3,10 @@
 <h3 align="left">Software Engineer building reliable backend systems, AI-assisted automation workflows, and practical RAG applications.</h3>
 
 <p align="left">
+  🎓 I'm a master's student currently looking for internship opportunities.
+</p>
+
+<p align="left">
   🌱 I'm currently learning advanced RAG architectures, LLM application design, retrieval evaluation, and scalable backend system design.
 </p>
 
