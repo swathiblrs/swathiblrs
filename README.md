@@ -3,7 +3,7 @@
 <h3 align="left">Software Engineer and M.S. Computer Science student at the University of Tennessee, building scalable backend systems, AI-powered automation, and production-ready RAG applications.</h3>
 
 <p align="left">
-  🎓 Graduating in May 2027 and currently seeking new-grad Software Engineer opportunities.
+  🎓 Currently seeking 2027 new-grad Software Engineer opportunities.
 </p>
 
 <p align="left">
