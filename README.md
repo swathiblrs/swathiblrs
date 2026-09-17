@@ -1,17 +1,17 @@
 <h1 align="left">Hi 👋, I'm Swathi Bangalore Satish</h1>
 
-<h3 align="left">Software Engineer building reliable backend systems, AI-assisted automation workflows, and practical RAG applications.</h3>
+<h3 align="left">Software Engineer and M.S. Computer Science student at the University of Tennessee, building scalable backend systems, AI-powered automation, and production-ready RAG applications.</h3>
 
 <p align="left">
-  🎓 I'm a master's student currently looking for 2027 new-grad opportunities.
+  🎓 Graduating in May 2027 and currently seeking new-grad Software Engineer opportunities.
 </p>
 
 <p align="left">
-  🌱 I'm currently learning advanced RAG architectures, LLM application design, retrieval evaluation, and scalable backend system design.
+  🚀 Currently focused on agentic AI, advanced RAG, retrieval evaluation, distributed systems, and reliable backend architecture.
 </p>
 
 <p align="left">
-  💬 Ask me about software engineering, backend development, automation workflows, RAG systems, NLP applications, 5G network simulation, testing, and system reliability.
+  💬 Ask me about Python, FastAPI, LangGraph, LangChain, RAG, REST APIs, microservices, distributed systems, testing, and CI/CD.
 </p>
 
 <h3 align="left">Connect with me:</h3>
