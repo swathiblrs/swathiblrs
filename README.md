@@ -3,7 +3,7 @@
 <h3 align="left">Software Engineer building reliable backend systems, AI-assisted automation workflows, and practical RAG applications.</h3>
 
 <p align="left">
-  🎓 I'm a master's student currently looking for internship opportunities.
+  🎓 I'm a master's student currently looking for 2027 new-grad opportunities.
 </p>
 
 <p align="left">
