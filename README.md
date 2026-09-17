@@ -1,17 +1,17 @@
 <h1 align="left">Hi 👋, I'm Swathi Bangalore Satish</h1>
 
-<h3 align="left">Software Engineer and M.S. Computer Science student at the University of Tennessee, building scalable backend systems, AI-powered automation, and production-ready RAG applications.</h3>
+<h3 align="left">Software Engineer with 2+ years of experience at Nokia and a Graduate Assistant at the University of Tennessee, building scalable backend systems, agentic AI workflows, and production-ready RAG applications.</h3>
 
 <p align="left">
-  🎓 Currently seeking 2027 new-grad Software Engineer opportunities.
+  🎓 M.S. Computer Science @ UTK | Seeking 2027 New-Grad Software Engineer roles.
 </p>
 
 <p align="left">
-  🚀 Currently focused on agentic AI, advanced RAG, retrieval evaluation, distributed systems, and reliable backend architecture.
+  🚀 I build backend and AI systems with Python, FastAPI, LangGraph, LangChain, REST APIs, microservices, and cloud-native tools.
 </p>
 
 <p align="left">
-  💬 Ask me about Python, FastAPI, LangGraph, LangChain, RAG, REST APIs, microservices, distributed systems, testing, and CI/CD.
+  💬 Ask me about agentic AI, RAG, distributed systems, 5G network simulation, system reliability, testing, and CI/CD.
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -29,10 +29,10 @@
 
 <h3 align="left">Current focus</h3>
 
-- Building production-ready RAG and knowledge retrieval workflows
-- Designing AI-assisted automation for support and service operations
-- Developing reliable backend services with validation, logging, and monitoring
-- Strengthening software testing, debugging, CI/CD, and system reliability
+- Building agentic AI systems with tool orchestration and multi-agent workflows
+- Engineering production-ready RAG with hybrid retrieval and evaluation pipelines
+- Designing scalable REST APIs, microservices, and event-driven workflows
+- Improving reliability through automated testing, observability, and Docker/Kubernetes CI/CD
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
